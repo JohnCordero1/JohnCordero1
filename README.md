@@ -1,7 +1,5 @@
 :wave: Hi! I'm John Cordero. 
 
-![](https://komarev.com/ghpvc/?username=regchiu&color=blueviolet&style=flat-square)
-
 Soy John, economista de Bolivia que llego a este lugar por diversas circunstancias de la vida y mi deseo más profundo es complementar mis conocimientos en Economía con la Ciencia de Datos, para así dar respuestas a la infinidad de problemas que se tiene de la forma más óptima posible.
 
 Como economista, mis intereses se centran en la investigación sobre el Desarrollo Económico de los países y la comprensión Macroeconómica y Microeconómica de estos. Actualmente, estoy formándome en técnicas de modelado predictivo y profundizando en el lenguaje de programación Python y R.
@@ -11,7 +9,7 @@ Entre mis habilidades que destaco están la Teoría Económica y la Econometría
 🌱 Actualmente estoy aprendiendo:
 
 &ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)
-&ensp;[HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white")
+&ensp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white")
 
 :rocket: Las herramientas que manejo:
 
@@ -22,6 +20,7 @@ Entre mis habilidades que destaco están la Teoría Económica y la Econometría
 &ensp;![Rstudio]
 &ensp;![Stata]
 &ensp;![MySQL](https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white)
+&ensp;![SQLITE](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white")
 
 📫 Como comunicarse conmigo:
 
