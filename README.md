@@ -8,24 +8,19 @@ Entre mis habilidades que destaco están la Teoría Económica y la Econometría
 
 🌱 Actualmente estoy aprendiendo:
 
-&ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)
-&ensp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white")
+&ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
+&ensp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white")
 
 :rocket: Las herramientas que manejo:
 
-&ensp;![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=Git)
+&ensp;![Git](https://img.shields.io/badge/-Git-3E2C00?style=for-the-badge&logo=Git)
 &ensp;![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white")
-&ensp;![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
-&ensp;![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
+&ensp;![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7)
+&ensp;![Python](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
 &ensp;![Rstudio]
 &ensp;![Stata]
-&ensp;![MySQL](https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white)
+&ensp;![MySQL](https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white)
 &ensp;![SQLITE](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white")
 
-📫 Como comunicarse conmigo:
 
-&ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:regx1385@gmail.com)&ensp;[![Blog](https://img.shields.io/badge/-Blog-000000?style=flat-square&logoColor=FFFFFF)](https://nextjs-blog.regchiu.vercel.app/)
-
-----
-Credit: [regchiu](https://github.com/regchiu)
 
