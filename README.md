@@ -9,7 +9,7 @@ Entre mis habilidades que destaco están la Teoría Económica y la Econometría
 🌱 Actualmente estoy aprendiendo:
 
 &ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
-&ensp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white")
+&ensp;![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 :rocket: Las herramientas que manejo:
 
