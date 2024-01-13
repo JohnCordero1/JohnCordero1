@@ -21,7 +21,7 @@ Entre mis habilidades que destaco están la Teoría Económica y la Econometría
 &ensp;![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 &ensp;![R](https://img.shields.io/badge/-R-05122A?style=for-the-badge&logo=R&logoColor=276DC3)
 &ensp;![Rstudio](https://img.shields.io/badge/-RStudio-05122A?style=for-the-badge&logo=rstudio)
-&ensp;![Stata](https://img.shields.io/badge/Stata-2C2D72?style=for-the-badge&logo=stata)
+&ensp;![Stata](https://img.shields.io/badge/Stata-117AC9?style=for-the-badge&logo=stata&logoColor=white)
 
 &ensp;![MySQL](https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white)
 &ensp;![SQLITE](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white")
