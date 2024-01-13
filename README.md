@@ -17,8 +17,11 @@ Entre mis habilidades que destaco están la Teoría Económica y la Econometría
 &ensp;![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white")
 &ensp;![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7)
 &ensp;![Python](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
-&ensp;![Rstudio](https://img.shields.io/badge/-R-05122A?style=for-the-badge&logoColor=276DC3)
-&ensp;![Stata]
+&ensp;![Jupiter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+&ensp;![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+&ensp;![R](https://img.shields.io/badge/-R-05122A?style=for-the-badge&logo=R&logoColor=276DC3)
+&ensp;![Rstudio](https://img.shields.io/badge/-RStudio-05122A?style=for-the-badge&logo=rstudio)
+&ensp;![Stata](https://img.shields.io/badge/Stata-E6B91E?style=for-the-badge&logo=Stata&logoColor=white)
 &ensp;![MySQL](https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white)
 
 &ensp;![SQLITE](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white")
