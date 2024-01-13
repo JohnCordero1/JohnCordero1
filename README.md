@@ -24,6 +24,7 @@ Dentro de mis habilidades, cuento con sólidos conocimientos en Teoría Económi
 
 &ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
 &ensp;![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+&ensp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 💻: Las herramientas que manejo:
 
