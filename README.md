@@ -17,7 +17,7 @@ Entre mis habilidades que destaco están la Teoría Económica y la Econometría
 &ensp;![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white")
 &ensp;![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7)
 &ensp;![Python](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
-&ensp;![Rstudio]
+&ensp;![Rstudio](https://img.shields.io/badge/-R-05122A?style=for-the-badge&logoColor=276DC3)
 &ensp;![Stata]
 &ensp;![MySQL](https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white)
 
