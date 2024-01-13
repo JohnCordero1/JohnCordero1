@@ -42,7 +42,7 @@ Dentro de mis habilidades, cuento con sólidos conocimientos en Teoría Económi
 &ensp;![Latex](https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white")
 &ensp;![Stata](https://img.shields.io/badge/Stata-117AC9?style=for-the-badge&logo=stata&logoColor=white)
 
-### 💻: Paqueterias:
+### 🚩: Paqueterias:
 
 &ensp;![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 &ensp;![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -51,8 +51,8 @@ Dentro de mis habilidades, cuento con sólidos conocimientos en Teoría Económi
 
 ### 🤝 Contactame:
 <p align="center">
-	<a href="mailto:johncordero@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/john-cordero/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href=""><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href=""><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+	<a href="mailto:johncordero@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/john-cordero/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href=""><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href=""><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
