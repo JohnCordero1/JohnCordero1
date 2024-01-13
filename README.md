@@ -1,4 +1,4 @@
-:wave: Hi! I'm John Cordero. 
+### :wave: Hi! I'm John Cordero. 
 
 Soy John, economista de Bolivia que llego a este lugar por diversas circunstancias de la vida y mi deseo más profundo es complementar mis conocimientos en Economía con la Ciencia de Datos, para así dar respuestas a la infinidad de problemas que se tiene de la forma más óptima posible.
 
@@ -6,7 +6,7 @@ Como economista, mis intereses se centran en la investigación sobre el Desarrol
 
 Entre mis habilidades que destaco están la Teoría Económica y la Econometría; por consiguiente, cuento con excelentes bases en Estadística y Métodos Cuantitativos. Con el tiempo espero sentirme mucho más cómodo con este nuevo mundo que explore, Ciencia de la Computación. Es así que me encuentro sumamente entusiasmado por seguir desarrollando diversas habilidades.
 
-:rocket: Actualmente estoy aprendiendo:
+### :rocket: Actualmente estoy aprendiendo:
 
 &ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
 &ensp;![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
