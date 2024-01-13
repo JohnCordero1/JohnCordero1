@@ -20,7 +20,8 @@ Entre mis habilidades que destaco están la Teoría Económica y la Econometría
 &ensp;![Rstudio]
 &ensp;![Stata]
 &ensp;![MySQL](https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white)
+
 &ensp;![SQLITE](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white")
-
-
+&ensp;![GoogleSheets](https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=for-the-badge&logo=google%20sheets&logoColor=white)
+&ensp;![Latex](https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white")
 
