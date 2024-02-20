@@ -48,8 +48,8 @@ Dentro de mis habilidades, cuento con sólidos conocimientos en Teoría Económi
 &ensp;![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 &ensp;![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 &ensp;![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-&ensp;![Keras]("https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white")
-&ensp;![TensorFlow]("https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white")
+&ensp;![TensorFlow]("https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white")
+&ensp;![Keras]("https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white")
 
 
 ### 🤝 Contactame:
