@@ -18,7 +18,7 @@ Soy John, economista de Bolivia que llego a este lugar por diversas circunstanci
 
 Como economista, mis intereses se centran en la investigación sobre el Desarrollo Económico de los países y la comprensión Macroeconómica y Microeconómica de estos. Actualmente, estoy formándome en técnicas de modelado predictivo y profundizando en los lenguajes de programación Python y R.
 
-Dentro de mis habilidades, cuento con sólidos conocimientos en Teoría Económica y Econometría; por consiguiente, tengo excelentes bases en Estadística y Métodos Cuantitativos. Con el tiempo espero sentirme mucho más cómodo con este nuevo mundo que exploré, la Inteligencia Artificial y el Desarrollo de Softaware. Es así que me encuentro sumamente entusiasmado por seguir desarrollando diversas habilidades.
+Dentro de mis habilidades, cuento con sólidos conocimientos en Teoría Económica y Econometría; por consiguiente, tengo excelentes bases en Estadística y Métodos Cuantitativos. Con el tiempo espero sentirme mucho más cómodo con este nuevo mundo que exploré, la Inteligencia Artificial y el Desarrollo de Software. Es así que me encuentro sumamente entusiasmado por seguir desarrollando diversas habilidades.
 
 ### :rocket: Actualmente estoy aprendiendo:
 
@@ -47,7 +47,10 @@ Dentro de mis habilidades, cuento con sólidos conocimientos en Teoría Económi
 &ensp;![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 &ensp;![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 &ensp;![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-&ensp;![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+&ensp;![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+&ensp;![Keras]("https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white")
+&ensp;![TensorFlow]("https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white")
+
 
 ### 🤝 Contactame:
 <p align="center">
