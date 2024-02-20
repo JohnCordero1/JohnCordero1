@@ -52,7 +52,7 @@ Dentro de mis habilidades, cuento con sólidos conocimientos en Teoría Económi
 ### 🤝 Contactame:
 <p align="center">
 	<a href="mailto:johncordero@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/john-cordero/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/john-corderov/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href=""><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href=""><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
