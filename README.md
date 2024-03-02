@@ -14,7 +14,7 @@ Hi, I'm John Cordero!
 <hr>
 
 
-Soy John, economista de Bolivia que llego a este lugar por diversas circunstancias de la vida y mi deseo más profundo es complementar mis conocimientos en Economía con la Ciencia de Datos, para dar respuestas óptimas a la infinidad de problemas existentes.
+Soy John, economista de Bolivia que llego a este lugar por diversas circunstancias de la vida. Dentro de mis objetivos de mediano plazo esta el complementar mis conocimientos en Economía con la Ciencia de Datos, para dar respuestas óptimas a la infinidad de problemas existentes.
 
 Como economista, mis intereses se centran en la investigación sobre el Desarrollo Económico de los países y la comprensión Macroeconómica y Microeconómica de estos. Actualmente, estoy formándome en técnicas de modelado predictivo y profundizando en los lenguajes de programación Python y R.
 
